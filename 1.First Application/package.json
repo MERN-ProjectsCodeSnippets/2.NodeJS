@@ -1,0 +1,19 @@
+{
+  "name": "environment-setup",
+  "version": "1.0.0",
+  "description": "setup and run",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MERN-ProjectsCodeSnippets/2.NodeJS.git"
+  },
+  "author": "vishumodidev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MERN-ProjectsCodeSnippets/2.NodeJS/issues"
+  },
+  "homepage": "https://github.com/MERN-ProjectsCodeSnippets/2.NodeJS#readme"
+}
